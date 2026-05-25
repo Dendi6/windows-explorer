@@ -11,9 +11,11 @@ Upon load, the frontend requests the data from the backend and displays the comp
 3. Feature Service ( Module Service Arch )
 
 ### How To Run 
-> cd backend
-> bun install
-> bun run dev
+```
+  > cd backend
+  > bun install
+  > bun run dev
+```
 
 ## Frontend : 
 1. Vue 3
